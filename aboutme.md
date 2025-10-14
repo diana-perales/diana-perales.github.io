@@ -6,7 +6,7 @@ subtitle: Stories of a parasitologist
 
 <p style="text-align:center;">My name is Diana M. B. Perales Macedo.</p>
 
-If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites, in this case nematodes! 
+<p style="text-align:center;">If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites, in this case nematodes!</p> 
 
 ## My story
 
