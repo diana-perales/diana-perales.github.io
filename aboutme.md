@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: __Stories of a parasitologist__
+subtitle: _Stories of a parasitologist_
 ---
 
 <p style="text-align:center;">My name is Diana M. B. Perales Macedo.</p>
