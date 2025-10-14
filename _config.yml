@@ -21,9 +21,9 @@ author: Person
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "
+  Publications: ""
   Outreach:
-    - blsh: "/"
+    - blah: ""
   #Author's home: "https://deanattali.com"
 
 ################
