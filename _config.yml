@@ -21,10 +21,9 @@ author: Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Randomtab: ""
+  Publications: "
+  Outreach:
+    - blsh: "/"
   #Author's home: "https://deanattali.com"
 
 ################
