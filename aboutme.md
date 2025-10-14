@@ -8,10 +8,6 @@ subtitle: Stories of a parasitologist
 
 If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites, in this case nematodes! 
 
-
-
-What else do you need?
-
 ## My story
 
 My earliest photos capture the international friendships my parents made in Sendai, Japan, where my father was completing his PhD. When I was around three years old, we moved to Peru. Although we stayed there for less than a year, it was a meaningful time in which I connected with my Peruvian roots, learning about the culture, food, family, and the vibrant, bustling life of Lima. 
