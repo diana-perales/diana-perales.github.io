@@ -8,10 +8,7 @@ My name is Diana M. B. Perales Macedo.
 
 If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites, in this case nematodes! 
 
-I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
