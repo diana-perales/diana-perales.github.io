@@ -1,3 +1,6 @@
+layout: page
+title: Outreach
+
 <div id="slideshow" style="max-width:600px; margin:auto;">
   <img src="/assets/img/outreach.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach2.jpg" style="width:100%; display:none;">
