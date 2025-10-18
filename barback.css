@@ -1,19 +1,12 @@
----
-layout: page
-title: Sample Page
----
-
-<div style="
-  width: 100%;
-  height: 60px;
+/* Change navbar background */
+.navbar {
   background-image: url('/assets/img/background.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  color: white;
-  display: flex;
-  align-items: center;
-  padding-left: 20px;
-  font-weight: bold;
-  font-size: 24px;
-">
+  background-size: cover;       /* Make image cover whole navbar */
+  background-repeat: no-repeat; /* Don’t tile */
+  background-position: center;  /* Center the image */
+}
+
+/* Optional: change text color for visibility */
+.navbar a {
+  color: white !important;
+}
