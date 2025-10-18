@@ -14,6 +14,8 @@ subtitle: Done from undergrad till masters
   <img src="/assets/img/outreach7.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach8.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach9.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/outreach10.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/outreach11.jpg" style="width:100%; display:none;">
 </div>
 
 <script>
