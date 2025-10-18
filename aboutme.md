@@ -50,19 +50,19 @@ subtitle: Stories of a parasitologist
 
 <div style="background-color:#f9f9f9; padding:20px; border-radius:8px; margin-bottom:20px;">
   <h3>How It Started</h3>
-  <p> My interest in parasitology began during my time as a volunteer at the Villa Michelle Animal Shelter in Mayagüez, Puerto Rico, where I assisted the on-site veterinarian. There, I was first exposed to parasites such as nematodes, sparking my curiosity about host-parasite interactions. What truly solidified my passion was reaching out to the parasitologist at my university (UPRM) to pursue a hands-on research opportunity. That decision led me to Dr. Sean Locke, whose mentorship introduced me to the world of parasitology. </p>
+     My interest in parasitology began during my time as a volunteer at the Villa Michelle Animal Shelter in Mayagüez, Puerto Rico, where I assisted the on-site veterinarian. There, I was first exposed to parasites such as nematodes, sparking my curiosity about host-parasite interactions. What truly solidified my passion was reaching out to the parasitologist at my university (UPRM) to pursue a hands-on research opportunity. That decision led me to Dr. Sean Locke, whose mentorship introduced me to the world of parasitology. 
 
 </div>
 
 <div style="background-color:#6FA89F; padding:20px; border-radius:8px; margin-bottom:20px;">
   <h3>Current goals</h3>
-  </p>I am currently a graduate student at the University of Washington, Seattle, specializing in ecological parasitology. Under the mentorship of Dr. Chelsea Wood, my research focuses on tracking trends in trematode and other metazoan parasite populations to understand how they respond to ecological variables such as temperature, predator presence, and time. This work involves both field collections and the analysis of historical data from museum specimens. I use a combination of morphological analysis and genetic sequencing to identify parasites to the lowest taxonomic level. </p>
+     I am currently a graduate student at the University of Washington, Seattle, specializing in ecological parasitology. Under the mentorship of Dr. Chelsea Wood, my research focuses on tracking trends in trematode and other metazoan parasite populations to understand how they respond to ecological variables such as temperature, predator presence, and time. This work involves both field collections and the analysis of historical data from museum specimens. I use a combination of morphological analysis and genetic sequencing to identify parasites to the lowest taxonomic level. 
 
 </div>
 
-<div style="background-color:#6FA89F; padding:20px; border-radius:8px; margin-bottom:20px;">
+<div style="background-color:#6DA4B3; padding:20px; border-radius:8px; margin-bottom:20px;">
   <h3>Long term goals</h3>
-  </p> I'm especially passionate about gaining hands-on research experience in ecology and freshwater sciences, as part of my path toward a Ph.D. in the School of Aquatic and Fisheries Sciences at UW. Ultimately, my goal is to contribute to a deeper understanding of complex ecological systems and the often-overlooked role parasites play within them. </p>
+   I'm especially passionate about gaining hands-on research experience in ecology and freshwater sciences, as part of my path toward a Ph.D. in the School of Aquatic and Fisheries Sciences at UW. Ultimately, my goal is to contribute to a deeper understanding of complex ecological systems and the often-overlooked role parasites play within them. 
 
 </div>
 
@@ -95,6 +95,6 @@ subtitle: Stories of a parasitologist
 
 <div style="background-color:#f9f9f9; padding:20px; border-radius:8px; margin-bottom:20px;">
   <h3>My story</h3>
-  <p> My earliest photos capture the international friendships my parents made in Sendai, Japan, where my father was completing his PhD. When I was around three years old, we moved to Peru. Although we stayed there for less than a year, it was a meaningful time in which I connected with my Peruvian roots, learning about the culture, food, family, and the vibrant, bustling life of Lima. 
+  My earliest photos capture the international friendships my parents made in Sendai, Japan, where my father was completing his PhD. When I was around three years old, we moved to Peru. Although we stayed there for less than a year, it was a meaningful time in which I connected with my Peruvian roots, learning about the culture, food, family, and the vibrant, bustling life of Lima. 
 
-Later, after my father accepted a professorship at the University of Puerto Rico, our family moved once again, this time to the beautiful island of Puerto Rico, where I lived until I completed my master’s degree at UPRM. While I proudly recognize my Peruvian heritage, I also strongly identify with Puerto Rican culture. Life here is full of beauty and unpredictability; our summers are marked by both sunshine and natural disasters, making each year an unforgettable experience.  <p>
+   Later, after my father accepted a professorship at the University of Puerto Rico, our family moved once again, this time to the beautiful island of Puerto Rico, where I lived until I completed my master’s degree at UPRM. While I proudly recognize my Peruvian heritage, I also strongly identify with Puerto Rican culture. Life here is full of beauty and unpredictability; our summers are marked by both sunshine and natural disasters, making each year an unforgettable experience.  <p>
