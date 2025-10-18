@@ -108,7 +108,7 @@ subtitle: Stories of a parasitologist
   </div>
 
   <div class="carousel">
-    <img src="/assets/img/outreach.jpg" alt="Outreach 1" style="display:block;">
+    <img src="/assets/img/outreach1.jpg" alt="outreach 1" style="display:block;">
   </div>
 </div>
 
