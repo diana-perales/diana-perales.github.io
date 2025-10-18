@@ -21,6 +21,14 @@ subtitle: Stories of a parasitologist
   <img src="/assets/img/fieldh9.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field10.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field11.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field12.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/fieldh13.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field14.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field15.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field16.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/fieldh17.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field18.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field19.jpg" style="width:100%; display:none;">
 </div>
 
 <script>
