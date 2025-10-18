@@ -6,7 +6,39 @@ subtitle: Stories of a parasitologist
 
 <p style="text-align:center;">My name is Diana M. B. Perales Macedo.</p>
 
-<p style="text-align:center;">If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites, in this case nematodes!</p> 
+<p style="text-align:center;">If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites</p> 
+
+
+<div id="slideshow" style="max-width:600px; margin:auto;">
+  <img src="/assets/img/field1.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field2.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field3.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field4.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field5.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field6.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field7.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field8.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/fieldh9.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field10.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field11.jpg" style="width:100%; display:none;">
+</div>
+
+<script>
+  let slideIndex = 0;
+  const slides = document.querySelectorAll("#slideshow img");
+
+  function showSlides() {
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1; }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 3000);
+  }
+
+  document.addEventListener("DOMContentLoaded", showSlides);
+</script>
 
 ## Research Goals
 
@@ -18,6 +50,30 @@ I am currently a graduate student at the University of Washington, Seattle, spec
 
 I'm especially passionate about gaining hands-on research experience in ecology and freshwater sciences, as part of my path toward a Ph.D. in the School of Aquatic and Fisheries Sciences at UW. Ultimately, my goal is to contribute to a deeper understanding of complex ecological systems and the often-overlooked role parasites play within them. 
 
+
+<div id="slideshow" style="max-width:600px; margin:auto;">
+  <img src="/assets/img/story1.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/story2.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/story3.jpg" style="width:100%; display:none;">
+
+</div>
+
+<script>
+  let slideIndex = 0;
+  const slides = document.querySelectorAll("#slideshow img");
+
+  function showSlides() {
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1; }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 3000);
+  }
+
+  document.addEventListener("DOMContentLoaded", showSlides);
+</script>
 ## My story
 
 My earliest photos capture the international friendships my parents made in Sendai, Japan, where my father was completing his PhD. When I was around three years old, we moved to Peru. Although we stayed there for less than a year, it was a meaningful time in which I connected with my Peruvian roots, learning about the culture, food, family, and the vibrant, bustling life of Lima. 
