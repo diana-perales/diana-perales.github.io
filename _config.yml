@@ -20,11 +20,12 @@ author: Person
 ###############################################
 
 navbar-links:
-  About Me: "404.html"
+  About Me: "aboutme"
   Publications: 
-    - Presentations: "404.html"
-  Outreach:
-    - blah: "404.html"
+    - Presentations: "presentations.md"
+    - Publications: "publications"
+  Outreach: "outreach.md"
+
   #Author's home: "https://deanattali.com"
 
 ################
