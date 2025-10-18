@@ -54,7 +54,6 @@ I'm especially passionate about gaining hands-on research experience in ecology 
 <div id="slideshow" style="max-width:600px; margin:auto;">
   <img src="/assets/img/story1.jpg" style="width:100%; display:none;">
   <img src="/assets/img/story2.jpg" style="width:100%; display:none;">
-  <img src="/assets/img/story3.jpg" style="width:100%; display:none;">
 
 </div>
 
