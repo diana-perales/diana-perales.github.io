@@ -22,7 +22,7 @@ author: Person
 navbar-links:
   About Me: "aboutme"
   Publications: 
-    - Presentations: "presentations.md"
+    - Presentations: "presentations"
     - Publications: "publications"
   Outreach: "outreach.md"
 
