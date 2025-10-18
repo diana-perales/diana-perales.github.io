@@ -21,20 +21,14 @@ subtitle: Done from undergrad till masters
   const slides = document.querySelectorAll("#slideshow img");
 
   function showSlides() {
-    // Hide all slides
     for (let i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
-
-    // Show the next slide
     slideIndex++;
     if (slideIndex > slides.length) { slideIndex = 1; }
     slides[slideIndex - 1].style.display = "block";
-
-    // Set timer for next slide
-    setTimeout(showSlides, 3000); // 3000 ms = 3 seconds
+    setTimeout(showSlides, 3000);
   }
 
-  // Start the slideshow when the page has loaded
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
