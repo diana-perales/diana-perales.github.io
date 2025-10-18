@@ -4,7 +4,7 @@ title: About me
 subtitle: Stories of a parasitologist
 ---
 
-<p style="text-align:center;">My name is Diana M. B. Perales Macedo.</p>
+<p style="text-align:center;">Hi! I'm Diana M. B. Perales Macedo.</p>
 
 <p style="text-align:center;">If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites!</p> 
 
@@ -50,7 +50,7 @@ subtitle: Stories of a parasitologist
 
 <div style="background-color:#f9f9f9; padding:20px; border-radius:8px; margin-bottom:20px;">
   <h3>How It Started</h3>
-     My interest in parasitology began during my time as a volunteer at the Villa Michelle Animal Shelter in Mayagüez, Puerto Rico, where I assisted the on-site veterinarian. There, I was first exposed to parasites such as nematodes, *sparking my curiosity about host-parasite interactions*. What truly solidified my passion was reaching out to the parasitologist at my university (UPRM) to pursue a hands-on research opportunity. That decision led me to Dr. Sean Locke, whose mentorship introduced me to the world of parasitology. 
+     My interest in parasitology began during my time as a volunteer at the Villa Michelle Animal Shelter in Mayagüez, Puerto Rico, where I assisted the on-site veterinarian. There, I was first exposed to parasites such as nematodes, *sparking my curiosity about host-parasite interactions*. What truly solidified my passion was reaching out to the parasitologist at my university (UPRM) to pursue a hands-on research opportunity. That decision led me to Dr. Sean Locke, whose mentorship guided me to develop my own *undergrad. research on cercariae (baby parasites) from freshwater bodies in Puerto Rico*. 
 
 </div>
 
