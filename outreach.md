@@ -5,7 +5,7 @@ subtitle: Done from undergrad till masters
 ---
 
 <div id="slideshow" style="max-width:600px; margin:auto;">
-  <img src="/assets/img/outreach.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/outreach1.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach2.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach3.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach4.jpg" style="width:100%; display:none;">
