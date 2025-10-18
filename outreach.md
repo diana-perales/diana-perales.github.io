@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach 
-subtitle: Done from undergrad till masters
+subtitle: Science if for everyone
 ---
 
 <div id="slideshow" style="max-width:600px; margin:auto;">
