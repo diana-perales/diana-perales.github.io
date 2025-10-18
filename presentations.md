@@ -10,7 +10,7 @@ subtitle:
 
 ## Oral presentations and poster presentations 
 
-1. Oral presentation at the Biology Research Symposium titled: Trematode Survey from Molluscs of Puerto Rico: Supported by Morphological and Molecular Analysis. At the University of Puerto Rico, Mayaguez campus, May 9, 2025 
+1. Oral presentation at the Biology Research Symposium titled: *Trematode Survey from Molluscs of Puerto Rico: Supported by Morphological and Molecular Analysis*. At the University of Puerto Rico, Mayaguez campus, May 9, 2025 
 
  
 
