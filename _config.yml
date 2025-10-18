@@ -21,7 +21,7 @@ author: Person
 
 navbar-links:
   About Me: "404.html"
-  Publications: ""
+  Publications: 
     - Presentations: "404.html"
   Outreach:
     - blah: "404.html"
