@@ -113,7 +113,7 @@ subtitle: Stories of a parasitologist
 </div>
 
 <!-- 3rd section: Text left, image right -->
-<div class="flex-section reverse">
+<div class="flex-section">
   <div class="carousel">
     <img src="/assets/img/future1.jpg" alt="future 1" style="display:block;">
   </div>
@@ -125,7 +125,7 @@ subtitle: Stories of a parasitologist
 </div>
 
 <!-- 4th section: Carousel left, text right -->
-<div class="flex-section">
+<div class="flex-section reverse">
   <div id="carousel2" class="carousel">
     <img src="/assets/img/story1.jpg" alt="Story 1">
     <img src="/assets/img/story2.jpg" alt="Story 2">
