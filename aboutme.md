@@ -71,7 +71,7 @@ subtitle: Stories of a parasitologist
 <p style="text-align:center;">If you explore fecal matter in a microscope (with the guidance of a veterinarian!) you might also stumble into the world of parasites!</p>
 
 <!-- 1st section: Text left, carousel right -->
-<div class="flex-section reverse">
+<div class="flex-section">
   <div id="carousel1" class="carousel">
     <img src="/assets/img/field1.jpg" alt="Field 1">
     <img src="/assets/img/field2.jpg" alt="Field 2">
@@ -125,7 +125,7 @@ subtitle: Stories of a parasitologist
 </div>
 
 <!-- 4th section: Carousel left, text right -->
-<div class="flex-section reverse">
+<div class="flex-section">
   <div id="carousel2" class="carousel">
     <img src="/assets/img/story1.jpg" alt="Story 1">
     <img src="/assets/img/story2.jpg" alt="Story 2">
