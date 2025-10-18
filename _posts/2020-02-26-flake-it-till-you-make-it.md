@@ -3,7 +3,7 @@ layout: post
 title: Traveling to study parasites
 subtitle: "If opportunity doesn’t knock, build a door.— Milton Berle"
 cover-img: /assets/img/new.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/new.jpg
 share-img: /assets/img/new.jpg
 tags: [books, test]
 author: Diana Perales
