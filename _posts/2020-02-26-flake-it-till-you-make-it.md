@@ -2,9 +2,9 @@
 layout: post
 title: Traveling from Puerto Rico to Seattle to Study Parasites 
 subtitle: *to more new experiences*
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/new.jpg
+thumbnail-img: /assets/img/new.jpg
+share-img: /assets/img/new.jpg
 tags: [Seattle, Puerto Rico]
 author: Diana Perales Macedo
 ---
