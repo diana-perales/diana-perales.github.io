@@ -1,5 +1,6 @@
 layout: page
-title: Outreach
+title: Presentations
+subtitle: 
 
 <div id="slideshow" style="max-width:600px; margin:auto;">
   <img src="/assets/img/outreach.jpg" style="width:100%; display:none;">
