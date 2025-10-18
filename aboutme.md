@@ -22,7 +22,7 @@ subtitle: Stories of a parasitologist
   <img src="/assets/img/field10.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field11.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field12.jpg" style="width:100%; display:none;">
-  <img src="/assets/img/fieldh13.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/field13.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field14.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field15.jpg" style="width:100%; display:none;">
   <img src="/assets/img/field16.jpg" style="width:100%; display:none;">
