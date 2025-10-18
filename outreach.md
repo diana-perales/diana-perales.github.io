@@ -1,5 +1,5 @@
 <div id="slideshow" style="max-width:600px; margin:auto;">
-  <img src="/assets/images/Outreach1.jpg" style="width:100%; display:none;">
+  <img src="/assets/images/outreach.jpg" style="width:100%; display:none;">
   <img src="/assets/images/outreach2.jpg" style="width:100%; display:none;">
   <img src="/assets/images/outreach3.jpg" style="width:100%; display:none;">
   <img src="/assets/images/outreach4.jpg" style="width:100%; display:none;">
