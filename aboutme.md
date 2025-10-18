@@ -81,7 +81,7 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/field6.jpg" alt="Field 6">
     <img src="/assets/img/field7.jpg" alt="Field 7">
     <img src="/assets/img/field8.jpg" alt="Field 8">
-    <img src="/assets/img/fieldh9.jpg" alt="Field 9">
+    <img src="/assets/img/field9.jpg" alt="Field 9">
     <img src="/assets/img/field10.jpg" alt="Field 10">
     <img src="/assets/img/field11.jpg" alt="Field 11">
     <img src="/assets/img/field12.jpg" alt="Field 12">
@@ -89,7 +89,7 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/field14.jpg" alt="Field 14">
     <img src="/assets/img/field15.jpg" alt="Field 15">
     <img src="/assets/img/field16.jpg" alt="Field 16">
-    <img src="/assets/img/fieldh17.jpg" alt="Field 17">
+    <img src="/assets/img/field17.jpg" alt="Field 17">
     <img src="/assets/img/field18.jpg" alt="Field 18">
     <img src="/assets/img/field19.jpg" alt="Field 19">
   </div>
