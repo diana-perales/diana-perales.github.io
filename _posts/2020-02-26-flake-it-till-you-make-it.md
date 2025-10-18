@@ -1,18 +1,37 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Traveling from Puerto Rico to Seattle to Study Parasites 
+subtitle: *to more new experiences*
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Diana Perales Macedo
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+As my first blog post, I want to dedicate this post to my roommates, who have made the transition to Seattle an unexpectedly enjoyable one. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+ 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Moving was always going to be a challenge, but having supportive, funny, and thoughtful people around has made all the difference. I’ve come to appreciate the value of living with peers who share the goal of growing both as professionals and as people. Each of them brings their own story, and by sharing, we all get to learn something new. 
+
+ 
+
+Being part of a group that takes time to connect, especially before the quarter gets more intense, has been grounding. These small moments of connection not only enrich my life but also lay the foundation for future friendships. 
+
+ 
+
+I look forward to continuing this journey with new friends and colleagues. 
+
+ 
+
+I’ve also already explored local grocery options-Safeway, QFC, and the UW Food Pantry have been incredibly helpful. I’ve visited the arboretum twice (once in January and again with my cohort), grabbed coffee at Saint Bread and Agua Verde, and I’ve gotten comfortable using the light rail and the bus. 
+
+ 
+
+As for how this move connects with my academic work, relocating allowed me to join the Wood Lab, a group of researchers who stand out for their talent and collaboration. Like any degree, this path will take hard work and growth. Through it, I will develop new skills in coding, ecological statistics, and the study of museum-preserved fish and parasites. 
+
+I’m grateful to be part of this lab, a place shaped by curious and dedicated minds. 
+
+ 
