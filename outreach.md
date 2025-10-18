@@ -7,6 +7,7 @@
   <img src="/assets/img/outreach6.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach7.jpg" style="width:100%; display:none;">
   <img src="/assets/img/outreach8.jpg" style="width:100%; display:none;">
+  <img src="/assets/img/outreach9.jpg" style="width:100%; display:none;">
 </div>
 
 <script>
