@@ -35,9 +35,10 @@ subtitle: Science is for everyone
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
 
+<div style="text-align: center;">
 Throughout my undergraduate years, post-baccalaureate work, and master’s program, I consistently found myself drawn to outreach. It became a source of inspiration, pushing me to become a better teacher, communicator, and researcher. Thanks to the support of student organizations like the Association of students of Biology at UPRM (AEB) and my peers in the Locke Lab, we had the opportunity to engage with K–12 students on multiple occasions!
 
-Some of the work we did was:
+Some of the work we did was:</div>
 
 1. Parasitology demonstrations and co-presenter with Yanella Colon, for high school students at the ICA highschool, titled “Aquatic Biology and Parasitology Lab.” August 29, 2025. (20 students). 
 
@@ -65,9 +66,6 @@ Some of the work we did was:
 
 1. Panelist for the Professionals in ecology and microbiology panel for the Association of Students in Biology, at Student's center room “Tarzan”, at University of Puerto Rico, Mayagüez campus, March 19, 2024 
 
- 
-
-School Outreach AEB-UPRM  
 
 1. As a master’s student in biology at UPRM, I participated in a presentation and demonstrations for K-12 students on What is ecology? at Eugenio María De Hostos Special Vocational Center as a member of the Association of Students in Biology UPRM by explaining what the master’s student experience in Biology, November 17, 2023  
 
