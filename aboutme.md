@@ -101,15 +101,16 @@ subtitle: Stories of a parasitologist
 </div>
 
 <!-- 2nd section: Text left with image left -->
+<div class="flex-section reverse">
   <div class="carousel">
-    <img src="/assets/img/outreach1.jpg" alt="outreach 1" style="display:block;">
+    <img src="/assets/img/outreach1.jpg" alt="Outreach 1" style="display:block;">
   </div>
 
-<div class="flex-section">
   <div class="text-block goals">
     <h3>Current goals</h3>
     <p>I am currently a <em>graduate student at the University of Washington</em>, Seattle, specializing in ecological parasitology. Under the mentorship of Dr. Chelsea Wood, my research focuses on tracking trends in trematode and other metazoan parasite populations to understand how they respond to ecological variables such as temperature, predator presence, and time. This work involves both field collections and the analysis of historical data from museum specimens. I use a combination of morphological analysis and genetic sequencing to identify parasites to the lowest taxonomic level.</p>
   </div>
+</div>
 
 <!-- 3rd section: Text left, image right -->
 <div class="flex-section">
