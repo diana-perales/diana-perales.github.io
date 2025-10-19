@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach 
-subtitle: Science if for everyone
+subtitle: Science is for everyone
 ---
 
 <div id="slideshow" style="max-width:600px; margin:auto;">
