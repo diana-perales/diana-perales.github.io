@@ -35,10 +35,9 @@ subtitle: Science is for everyone
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
 
-<div style="text-align: center;">
-Throughout my undergraduate years, post-baccalaureate work, and master’s program, I consistently found myself drawn to outreach. It became a source of inspiration, pushing me to become a better teacher, communicator, and researcher. Thanks to the support of student organizations like the Association of students of Biology at UPRM (AEB) and my peers in the Locke Lab, we had the opportunity to engage with K–12 students on multiple occasions!
+<div style="text-align: center;"> Throughout my undergraduate years, post-baccalaureate work, and master’s program, I consistently found myself drawn to outreach. It became a source of inspiration, pushing me to become a better teacher, communicator, and researcher. Thanks to the support of student organizations like the Association of students of Biology at UPRM (AEB) and my peers in the Locke Lab, we had the opportunity to engage with K–12 students on multiple occasions!</div>
 
-Some of the work we did was:</div>
+Some of the work we did was:
 
 1. Parasitology demonstrations and co-presenter with Yanella Colon, for high school students at the ICA highschool, titled “Aquatic Biology and Parasitology Lab.” August 29, 2025. (20 students). 
 
