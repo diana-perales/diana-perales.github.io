@@ -93,7 +93,7 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/field18.jpg" alt="Field 18">
     <img src="/assets/img/field19.jpg" alt="Field 19">
   </div>
-
+<hr>
   <div class="text-block">
     <h3>How It Started</h3>
     <p>My interest in parasitology began during my time as a volunteer at the Villa Michelle Animal Shelter in Mayagüez, Puerto Rico, where I assisted the on-site veterinarian. There, I was first exposed to parasites such as nematodes, <em>sparking my curiosity about host-parasite interactions</em>. What truly solidified my passion was reaching out to the parasitologist at my university (UPRM) to pursue a hands-on research opportunity. That decision led me to Dr. Sean Locke, whose mentorship guided me to develop my own <em>undergrad. research on cercariae (baby parasites) from freshwater bodies in Puerto Rico</em>.</p>
@@ -105,7 +105,7 @@ subtitle: Stories of a parasitologist
   <div class="carousel">
     <img src="/assets/img/future1.jpg" alt="Future 1" style="display:block;">
   </div>
-
+<hr>
   <div class="text-block goals">
     <h3>Current goals</h3>
     <p>I am currently a <em>graduate student at the University of Washington</em>, Seattle, specializing in ecological parasitology. Under the mentorship of Dr. Chelsea Wood, my research focuses on tracking trends in trematode and other metazoan parasite populations to understand how they respond to ecological variables such as temperature, predator presence, and time. This work involves both field collections and the analysis of historical data from museum specimens. I use a combination of morphological analysis and genetic sequencing to identify parasites to the lowest taxonomic level.</p>
@@ -117,7 +117,7 @@ subtitle: Stories of a parasitologist
   <div class="carousel">
     <img src="/assets/img/outreach13" alt="Outreach 13" style="display:block;">
   </div>
-
+<hr>
   <div class="text-block longterm">
     <h3>Long term goals</h3>
     <p>I'm especially passionate about gaining <em>hands-on research experience in ecology and freshwater sciences</em>, as part of my path toward a Ph.D. in the School of Aquatic and Fisheries Sciences at UW. Ultimately, my goal is to contribute to a <em>deeper understanding of complex ecological systems while facilitating this information to K-12 students</em>.</p>
@@ -130,7 +130,7 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/story1.jpg" alt="Story 1">
     <img src="/assets/img/story2.jpg" alt="Story 2">
   </div>
-
+<hr>
   <div class="text-block">
     <h3>My story</h3>
     <p>My earliest photos capture the international friendships my parents made in Sendai, Japan, where my father was completing his PhD. When I was around three years old, we moved to Peru. Although we stayed there for less than a year, it was a meaningful time in which I connected with my Peruvian roots, learning about the culture, food, family, and the vibrant, bustling life of Lima.</p>
