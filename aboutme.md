@@ -93,8 +93,6 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/field18.jpg" alt="Field 18">
     <img src="/assets/img/field19.jpg" alt="Field 19">
   </div>
-  
-<hr>
 
   <div class="text-block">
     <h3>How It Started</h3>
@@ -107,8 +105,6 @@ subtitle: Stories of a parasitologist
   <div class="carousel">
     <img src="/assets/img/future1.jpg" alt="Future 1" style="display:block;">
   </div>
-  
-<hr>
 
   <div class="text-block goals">
     <h3>Current goals</h3>
@@ -121,8 +117,6 @@ subtitle: Stories of a parasitologist
   <div class="carousel">
     <img src="/assets/img/outreach13.jpg" alt="Outreach 13" style="display:block;">
   </div>
-  
-<hr>
 
   <div class="text-block longterm">
     <h3>Long term goals</h3>
@@ -136,8 +130,6 @@ subtitle: Stories of a parasitologist
     <img src="/assets/img/story1.jpg" alt="Story 1">
     <img src="/assets/img/story2.jpg" alt="Story 2">
   </div>
-  
-<hr>
 
   <div class="text-block">
     <h3>My story</h3>
