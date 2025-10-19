@@ -115,7 +115,7 @@ subtitle: Stories of a parasitologist
 <!-- 3rd section: Text left, image right -->
 <div class="flex-section">
   <div class="carousel">
-    <img src="/assets/img/outreach1" alt="outreach 1" style="display:block;">
+    <img src="/assets/img/outreach13" alt="outreach 13" style="display:block;">
   </div>
 
   <div class="text-block longterm">
