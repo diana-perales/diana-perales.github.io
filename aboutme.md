@@ -103,7 +103,7 @@ subtitle: Stories of a parasitologist
 <!-- 2nd section: Text left with image left -->
 <div class="flex-section reverse">
   <div class="carousel">
-    <img src="/assets/img/future.jpg" alt="future 1" style="display:block;">
+    <img src="/assets/img/future1.jpg" alt="future 1" style="display:block;">
   </div>
 
   <div class="text-block goals">
