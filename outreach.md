@@ -34,6 +34,7 @@ subtitle: Science is for everyone
 
   document.addEventListener("DOMContentLoaded", showSlides);
 </script>
+<hr>
 
 <div style="text-align: center;"> Throughout my undergraduate years, post-baccalaureate work, and master’s program, I consistently found myself drawn to outreach. It became a source of inspiration, pushing me to become a better teacher, communicator, and researcher. Thanks to the support of student organizations like the Association of students of Biology at UPRM (AEB) and my peers in the Locke Lab, we had the opportunity to engage with K–12 students on multiple occasions!</div>
 
